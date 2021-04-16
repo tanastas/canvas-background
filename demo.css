@@ -1,8 +1,5 @@
 body {
     height: 90%;
     width: 100%;
-    z-index: 1;
-    background-color: #FFF;
-    background-image:url("../img/squares.jpg");
-    background: -webkit-canvas(animation);
+    background-color: #000;
 }
